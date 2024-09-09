@@ -1,4 +1,3 @@
-```markdown
 ###  **EduÁgil: Sua Busca Personalizada no Mundo Ágil** ###
 
 **O que é?**
@@ -42,4 +41,3 @@ Sinta-se à vontade para abrir uma issue aqui no GitHub ou entrar em contato com
 **#agile #scrum #kanban #designthinking #educação #desenvolvimentodesoftware**
 
 - Projeto desenvolvido durante a Imersão Dev com Google Gemini em parceria com a Alura.
-```
