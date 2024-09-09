@@ -1,5 +1,5 @@
 ```markdown
-###  **EduÁgil: Sua Busca Personalizada no Mundo Ágil**
+###  **EduÁgil: Sua Busca Personalizada no Mundo Ágil** ###
 
 **O que é?**
 
